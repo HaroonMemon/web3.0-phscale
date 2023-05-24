@@ -1,0 +1,132 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+body{
+    background-color: #f1d4d4;
+width: 100%;
+}
+.container{
+    width: 100%;
+}
+.container .main{
+    margin: auto;
+    padding: 10px;
+    height: auto;
+    width: 1200px;
+}
+.container .main h1{
+    text-align: center;
+    /* background-color: aqua; */
+    color: grey;
+}
+.container .main .phscale{
+    color: white;
+}
+.container .main .phscale .zero{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(235, 72, 99);
+    line-height: 20px;
+}
+.container .main .phscale .first{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color:  rgb(238, 87, 112);
+    line-height: 20px;
+}
+.container .main .phscale .second{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(238, 103, 126);
+    line-height: 20px;
+}
+.container .main .phscale .third{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(235, 116, 136);
+    line-height: 20px;
+}
+.container .main .phscale .fourth{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(233, 129, 147);
+    line-height: 20px;
+}
+.container .main .phscale .fifth{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(233, 142, 157);
+    line-height: 20px;
+}
+.container .main .phscale .six{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(231, 168, 178);
+    line-height: 20px;
+}
+.container .main .phscale .seven{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(49, 152, 49);
+    line-height: 20px;
+}
+.container .main .phscale .eight{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(161, 216, 250);
+    line-height: 20px;
+}
+.container .main .phscale .nine{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(144, 208, 248);
+    line-height: 20px;
+}
+.container .main .phscale .ten{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(118, 199, 249);
+    line-height: 20px;
+}
+.container .main .phscale .eleven{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(104, 195, 252);
+    line-height: 20px;
+}
+.container .main .phscale .twelve{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(89, 189, 251);
+    line-height: 20px;
+}
+.container .main .phscale .thirteen{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(75, 183, 250);
+    line-height: 20px;
+}
+.container .main .phscale .fourteen{
+    width: 100%;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(45, 173, 252);
+    line-height: 20px;
+}
